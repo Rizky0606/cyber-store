@@ -1,0 +1,308 @@
+{
+  "products": [
+    {
+      "id": "8f40f7f7-6007-4ab9-aab1-81dfef327759",
+      "name": "Apple iPhone 14 Pro Max 128GB Deep Purple ",
+      "price": 20000000,
+      "image": "./products/Iphone_14_pro.png",
+      "categories": "Smartphone",
+      "merk": "Apple"
+    },
+    {
+      "id": "6aa04207-0292-454e-ba97-457487b22412",
+      "name": "Blackmagic Pocket Cinema Camera 6k",
+      "price": 35000000,
+      "image": "./products/Blackmagic_Pocket_Cinema_Camera_6k.png",
+      "categories": "Camera",
+      "merk": "Blackmagic"
+    },
+    {
+      "id": "ef94aecc-48e2-46b4-9976-9b75c1fc6cc0",
+      "name": "Apple Watch Series 9 GPS 41mm Starlight Aluminium ",
+      "price": 5000000,
+      "image": "./products/Apple_Watch_Series_9.png",
+      "categories": "Smartwatches",
+      "merk": "Apple"
+    },
+    {
+      "id": "70b537c5-e129-44be-8eae-ee4768b11e34",
+      "name": "AirPods Max Silver Starlight Aluminium ",
+      "price": 7000000,
+      "image": "./products/AirPods_Max.png",
+      "categories": "Earphones",
+      "merk": "Apple"
+    },
+    {
+      "id": "fc03d4ea-88d9-4de2-b4f9-1f9fb9bf532e",
+      "name": "Samsung Galaxy Watch6 Classic 47mm Black",
+      "price": 3000000,
+      "image": "./products/Samsung_Galaxy_Watch6.png",
+      "categories": "Smartwatches",
+      "merk": "Samsung"
+    },
+    {
+      "id": "3c7920e1-7564-4180-8a8a-9495dcfec8f6",
+      "name": "Galaxy Z Fold5 Unlocked | 256GB | Phantom Black",
+      "price": 20000000,
+      "image": "./products/Galaxy_Z_Fold5.png",
+      "categories": "Smartphone",
+      "merk": "Samsung"
+    },
+    {
+      "id": "bdca1955-86e8-42ea-9e9a-a118488b165d",
+      "name": "Galaxy Buds FE Graphite",
+      "price": 4000000,
+      "image": "./products/Galaxy_Buds_FE.png",
+      "categories": "Earphones",
+      "merk": "Samsung"
+    },
+    {
+      "id": "1ab5ce17-2c53-4d53-9041-fff14af40234",
+      "name": "Apple iPad 9 64GB Wi-Fi Silver (MK2L3) 2021",
+      "price": 8000000,
+      "image": "./products/Apple_iPad_9.png",
+      "categories": "Tablet",
+      "merk": "Apple"
+    },
+    {
+      "id": "eb43eae6-bc07-48cc-bde6-9ee4e35f57b0",
+      "name": "Canon EOS R6 Mark II",
+      "price": 40000000,
+      "image": "./camera/canon-eosR6.png",
+      "categories": "Camera",
+      "merk": "Canon",
+      "rating": "4.8",
+      "description": "Kamera mirrorless full-frame dengan performa cepat dan stabilisasi gambar."
+    },
+    {
+      "id": "160436bf-3229-4516-8044-0b14236d2848",
+      "name": "Sony Alpha A7 IV",
+      "price": 45000000,
+      "image": "./camera/sony-alphaA7.png",
+      "categories": "Camera",
+      "merk": "Sony",
+      "rating": "4.9",
+      "description": "Kamera mirrorless premium dengan sensor full-frame dan kemampuan video 4K."
+    },
+    {
+      "id": "59e930c5-4a98-43f3-9037-72766353c596",
+      "name": "Nikon Z6 II",
+      "price": 38000000,
+      "image": "./camera/nikon-z6.png",
+      "categories": "Camera",
+      "merk": "Nikon",
+      "rating": "4.7",
+      "description": "Kamera mirrorless full-frame dengan fitur dual processor untuk performa cepat."
+    },
+    {
+      "id": "2651fb61-20dc-4617-86bb-7732d04c0411",
+      "name": "Fujifilm X-T5",
+      "price": 32000000,
+      "image": "./camera/fujifilm-xt5.png",
+      "categories": "Camera",
+      "merk": "Fujifilm",
+      "rating": "4.6",
+      "description": "Kamera mirrorless APS-C dengan desain klasik dan kualitas gambar tinggi."
+    },
+    {
+      "id": "76e463bb-2882-4d4d-95f3-3b90fc24c2b8",
+      "name": "Panasonic Lumix GH6",
+      "price": 30000000,
+      "image": "./camera/panasonic-gh6.webp",
+      "categories": "Camera",
+      "merk": "Panasonic",
+      "rating": "4.5",
+      "description": "Kamera micro four-thirds dengan kemampuan video hingga 5.7K."
+    },
+    {
+      "id": "00310dd0-ef0b-4ff5-90c6-a5be87a3fb32",
+      "name": "Olympus OM-D E-M10 Mark IV",
+      "price": 12000000,
+      "image": "./camera/olympus-m10.png",
+      "categories": "Camera",
+      "merk": "Olympus",
+      "rating": "4.3",
+      "description": "Kamera micro four-thirds ringan dan portabel untuk fotografer pemula."
+    },
+    {
+      "id": "2604b6fb-9109-43b9-bf21-61d3be62e8fc",
+      "name": "Leica Q2",
+      "price": 85000000,
+      "image": "./camera/leica-q2.png",
+      "categories": "Camera",
+      "merk": "Leica",
+      "rating": "4.9",
+      "description": "Kamera compact full-frame dengan desain mewah dan lensa fixed 28mm."
+    },
+    {
+      "id": "233cbb0d-cbcc-46ac-bed7-1c2d096928e9",
+      "name": "Canon EOS 90D",
+      "price": 20000000,
+      "image": "./camera/canon-eos90D.png",
+      "categories": "Camera",
+      "merk": "Canon",
+      "rating": "4.6",
+      "description": "Kamera DSLR dengan sensor APS-C dan kemampuan video 4K."
+    },
+    {
+      "id": "9a65d050-2e44-4149-94ec-07a5174140cd",
+      "name": "Sony ZV-1",
+      "price": 10000000,
+      "image": "./camera/sony-zv1.png",
+      "categories": "Camera",
+      "merk": "Sony",
+      "rating": "4.5",
+      "description": "Kamera compact yang dirancang khusus untuk vlogging dan konten video."
+    },
+    {
+      "id": "94622095-2955-498e-8f65-e941039216da",
+      "name": "GoPro Hero 12 Black",
+      "price": 8000000,
+      "image": "./camera/gopro-hero12.png",
+      "categories": "Camera",
+      "merk": "GoPro",
+      "rating": "4.7",
+      "description": "Action camera dengan kemampuan video 5.3K dan stabilisasi HyperSmooth."
+    },
+    {
+      "id": "eb056a13-6382-48ff-b375-07a109417275",
+      "name": "DJI Pocket 2",
+      "price": 6500000,
+      "image": "./camera/dji-pocket2.png",
+      "categories": "Camera",
+      "merk": "DJI",
+      "rating": "4.4",
+      "description": "Kamera gimbal mini dengan kemampuan perekaman video 4K."
+    },
+    {
+      "id": "e34c5b9c-ad83-42a0-b9d6-646748280a22",
+      "name": "Nikon D7500",
+      "price": 17000000,
+      "image": "./camera/nikon-d7500.webp",
+      "categories": "Camera",
+      "merk": "Nikon",
+      "rating": "4.5",
+      "description": "Kamera DSLR dengan sensor APS-C dan kemampuan ISO tinggi untuk pencahayaan rendah."
+    },
+    {
+      "id": "af09cb03-b91c-47f6-abbb-26ef000ca54e",
+      "name": "Fujifilm Instax Mini 12",
+      "price": 1500000,
+      "image": "./camera/fujifilm-instax.png",
+      "categories": "Camera",
+      "merk": "Fujifilm",
+      "rating": "4.2",
+      "description": "Kamera instan dengan desain fun untuk mencetak foto langsung."
+    },
+    {
+      "id": "c9b45210-589b-4e9f-86de-f271f14da912",
+      "name": "Canon PowerShot G7 X Mark III",
+      "price": 12000000,
+      "image": "./camera/canon-powershotG7.webp",
+      "categories": "Camera",
+      "merk": "Canon",
+      "rating": "4.5",
+      "description": "Kamera compact dengan kemampuan live streaming dan video 4K."
+    },
+    {
+      "id": "8371f6a7-5fe6-483f-8f86-efa253ecaa5d",
+      "name": "Sony RX100 VII",
+      "price": 18000000,
+      "image": "./camera/sony-rx100.png",
+      "categories": "Camera",
+      "merk": "Sony",
+      "rating": "4.6",
+      "description": "Kamera compact premium dengan fitur autofocus cepat dan lensa zoom."
+    },
+    {
+      "id": "a10ae5ec-6749-460d-b86f-1eca6c766284",
+      "name": "PlayStation 5",
+      "price": 9000000,
+      "image": "./console/playstation5.png",
+      "categories": "Console",
+      "merk": "Sony",
+      "rating": "4.9",
+      "description": "PlayStation 5 adalah konsol gaming generasi terbaru dari Sony yang menawarkan pengalaman bermain yang luar biasa. Didukung oleh prosesor AMD Ryzen Zen 2 dan GPU RDNA 2, PS5 mampu menjalankan game dengan grafis 4K yang tajam dan ray tracing untuk pencahayaan realistis. Fitur SSD ultra-cepat memungkinkan waktu loading hampir seketika, sementara controller DualSense memberikan sensasi bermain yang lebih imersif melalui haptic feedback dan adaptive triggers."
+    },
+    {
+      "id": "c68f6d94-4a25-4eba-8468-59d6fb968364",
+      "name": "Xbox Series X",
+      "price": 8500000,
+      "image": "./console/xbox-seriesX.png",
+      "categories": "Console",
+      "merk": "Microsoft",
+      "rating": "4.8",
+      "description": "Xbox Series X adalah konsol gaming paling kuat dari Microsoft yang dirancang untuk gamer hardcore. Dengan prosesor custom AMD Zen 2 dan GPU RDNA 2, konsol ini mendukung gameplay hingga 120 FPS pada resolusi 4K. Fitur Xbox Velocity Architecture dengan SSD NVMe memberikan performa loading game yang cepat. Dilengkapi dengan Dolby Vision dan Dolby Atmos untuk pengalaman visual dan audio yang memukau, Xbox Series X juga mendukung backward compatibility untuk ribuan game dari generasi sebelumnya."
+    },
+    {
+      "id": "80c4762a-d895-46ae-ad75-b216bd93340d",
+      "name": "Nintendo Switch OLED",
+      "price": 5500000,
+      "image": "./console/nintendo-switch.png",
+      "categories": "Console",
+      "merk": "Nintendo",
+      "rating": "4.7",
+      "description": "Nintendo Switch OLED adalah versi terbaru dari konsol hybrid populer Nintendo. Fitur utama mencakup layar OLED 7 inci yang memberikan warna lebih hidup dan kontras tinggi, ideal untuk gaming baik di rumah maupun portabel. Dengan penyimpanan internal 64GB, mode tabletop dengan kickstand yang dapat disesuaikan, dan audio yang ditingkatkan, Switch OLED menawarkan pengalaman bermain yang lebih baik dari versi sebelumnya."
+    },
+    {
+      "id": "72558092-8cac-4737-b860-4d91fc639cbe",
+      "name": "Steam Deck",
+      "price": 10000000,
+      "image": "./console/steam-deck.png",
+      "categories": "Console",
+      "merk": "Valve",
+      "rating": "4.6",
+      "description": "Steam Deck adalah perangkat gaming portabel yang memungkinkan Anda memainkan game PC di mana saja. Ditenagai oleh prosesor custom AMD APU dengan arsitektur Zen 2 dan RDNA 2, perangkat ini mampu menjalankan game AAA dengan lancar. Steam Deck memiliki layar 7 inci, trackpad haptic, dan kontroler ergonomis yang nyaman untuk sesi gaming panjang. Didukung oleh SteamOS, Anda dapat mengakses perpustakaan game Steam dan bahkan menginstal aplikasi tambahan melalui mode desktop Linux."
+    },
+    {
+      "id": "14a091f7-3d4c-49b0-830d-e81c55f225e3",
+      "name": "PlayStation 4 Slim",
+      "price": 4000000,
+      "image": "./console/playstation4.png",
+      "categories": "Console",
+      "merk": "Sony",
+      "rating": "4.5",
+      "description": "PlayStation 4 Slim adalah versi ramping dan hemat energi dari konsol PS4 asli. Konsol ini tetap menawarkan pengalaman bermain yang fantastis dengan dukungan untuk ribuan game eksklusif dan third-party. Dengan desain yang lebih ringan dan ringkas, PS4 Slim menjadi pilihan ideal untuk gamer yang menginginkan performa solid dengan harga yang lebih terjangkau."
+    },
+    {
+      "id": "cbc33736-0897-43c7-bd63-f6a40f9efb97",
+      "name": "Xbox Series S",
+      "price": 5000000,
+      "image": "./console/xbox-seriesS.png",
+      "categories": "Console",
+      "merk": "Microsoft",
+      "rating": "4.4",
+      "description": "Xbox Series S adalah versi ekonomis dari Xbox Series X yang dirancang untuk gaming generasi baru dengan resolusi hingga 1440p. Konsol ini memiliki desain yang ringkas dan mendukung fitur-fitur next-gen seperti ray tracing, quick resume, dan loading super cepat. Xbox Series S cocok untuk gamer yang ingin menikmati game terbaru tanpa perlu merogoh kocek terlalu dalam."
+    },
+    {
+      "id": "d0f36124-530a-4e5a-80ba-f0f5d2a60608",
+      "name": "Nintendo Switch Lite",
+      "price": 3500000,
+      "image": "./console/nintendo-switchLite.webp",
+      "categories": "Console",
+      "merk": "Nintendo",
+      "rating": "4.3",
+      "description": "Nintendo Switch Lite adalah versi portabel dari Nintendo Switch yang dirancang khusus untuk gaming di perjalanan. Dengan desain yang lebih kecil dan ringan, konsol ini cocok untuk gamer yang sering bepergian. Meskipun tidak mendukung mode dock untuk TV, Switch Lite tetap menawarkan pengalaman gaming Nintendo dengan performa yang sama baiknya."
+    },
+    {
+      "id": "7a16ea6f-d7e0-4127-975d-b48e5c819ff1",
+      "name": "PlayStation VR2",
+      "price": 8000000,
+      "image": "./console/playstation-vr2.png",
+      "categories": "Console",
+      "merk": "Sony",
+      "rating": "4.8",
+      "description": "PlayStation VR2 adalah perangkat VR generasi terbaru untuk PlayStation 5, dirancang untuk menghadirkan pengalaman bermain yang imersif. Dengan layar OLED HDR, resolusi 4K, dan fitur eye-tracking, VR2 menawarkan visual yang sangat detail. Headset ini juga dilengkapi dengan controller Sense yang memberikan haptic feedback untuk meningkatkan keterlibatan pemain."
+    },
+    {
+      "id": "161c38e6-c48e-42b7-b71a-bf6586302e94",
+      "name": "SEGA Genesis Mini 2",
+      "price": 1500000,
+      "image": "./console/sega-genesis.png",
+      "categories": "Console",
+      "merk": "SEGA",
+      "rating": "4.2",
+      "description": "SEGA Genesis Mini 2 adalah konsol retro yang menghadirkan kembali kenangan era 16-bit. Dilengkapi dengan 60+ game klasik yang sudah diinstal, konsol ini memberikan pengalaman nostalgia bagi para penggemar SEGA. Desain miniatur dan controller yang identik dengan aslinya membuat Genesis Mini 2 menjadi pilihan menarik untuk kolektor."
+    }
+  ]
+}
