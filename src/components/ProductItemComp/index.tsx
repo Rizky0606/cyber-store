@@ -39,7 +39,7 @@ const ProductItemComp = ({ product }: { product: TypeProduct }) => {
         alt={product.name}
         className="w-36 h-40 my-3 items-center p-2"
       />
-      <h5 className="text-center font-medium text-[13px] line-clamp-1 lg:line-clamp-none">
+      <h5 className="text-center font-medium text-[13px] line-clamp-1 lg:line-clamp-2 xl:line-clamp-none">
         {product.name}
       </h5>
       <p className="text-center my-3 font-bold">
